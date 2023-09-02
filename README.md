@@ -1,6 +1,6 @@
 # Ultrasonic Reverse Sensor with Audible and Visual Distance Detector
 
-![Circuit Diagram](imagescircuit_diagram.jpg)
+![Circuit Diagram](images/circuit_diagram.jpg)
 
 **Authors:**
 - Avvienash Jaganathan (32281013)
