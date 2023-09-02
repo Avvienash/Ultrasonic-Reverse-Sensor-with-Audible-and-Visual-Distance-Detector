@@ -91,3 +91,5 @@ The table below shows the component analysis, cost, and power consumption:
 - [Summing amplifier is an op-amp voltage adder](https://www.electronicstutorials.ws/opamp/opamp_4.html)
 - [Noise test and analysis of automobile engine](https://www.scientific.net/AMM.307.196#:~:text=The%20conclusion%20is%20that%EF%BC%9Athe,noise%20frequency%20mainly%20concentrated%20in)
 - [Ultrasonic sensors: Answers to frequently asked questions - Banner Engineering](https://www.bannerengineering.com/my/en/company/expert-insights/ultrasonic-sensors-101.html#/)
+
+Additional information and images can be found in the Project Report.pdf file.
