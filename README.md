@@ -3,8 +3,8 @@
 ![Circuit Diagram](images/circuit_diagram.jpg)
 
 **Authors:**
-- Avvienash Jaganathan (32281013)
-- Ahmed Al-Aidaroos (32153740)
+- Avvienash Jaganathan
+- Ahmed Al-Aidaroos
 
 ## Table of Contents
 
